@@ -14,6 +14,7 @@
  { 
      echo"Błąd: ". mysqli_connect_errno()." ".mysqli_connect_error(); //obsługa błędu (jeśli nie uda się połączyć z bazą wyświetli błąd)
 }
+ mysqli_query($link, "SET NAMES 'utf8'"); // ustawienie polskich znaków
  $verification = mysqli_query($link, "SELECT * FROM users WHERE username='$user'"); //zapytanie do bazy danych (sprawdzenie w tabeli "users" użytkowników)
  $rekord = mysqli_fetch_array($verification); //pobieranie wiersza z bazy danych
 $OK=true; //zmienna o nazwie "OK" z przypisaną wartością "true"
