@@ -26,3 +26,22 @@ The task consisted of:
 - **Stage 4:** Testing the operation of VPN and web application mining.
 
 - **Stage 5:** Creating an application to collect information about users visiting the site and displaying this data.
+
+
+### Task 3: Communicator
+
+The task was to create an instant messaging application where registered users could send posts, files and messages among themselves. Key implementation steps were:
+
+- **Stage 1:** Creating a database with three tables: "users" (to store user information), "guestportal" (with geolocation data of logged-in users) and "messages" (to store posts).
+
+- **Stage 1:** Allowing logged-in users to add posts with text, files or both, and targeting specific audiences.
+
+- **Stage 2:** Display user data in the menu and autocomplete the name in the post form.
+
+- **Stage 3:** Support for different types of files (photos, video, audio) uploaded by users.
+
+- **Stage 4:** Viewing of posts, both received and sent.
+
+- **Stage 5:** Full access to all posts for the "admin" user.
+
+- **Stage 6:** The application allows communication between users, content exchange and management, and provides geolocation information of users.
