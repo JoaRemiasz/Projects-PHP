@@ -34,14 +34,31 @@ The task was to create an instant messaging application where registered users c
 
 - **Stage 1:** Creating a database with three tables: "users" (to store user information), "guestportal" (with geolocation data of logged-in users) and "messages" (to store posts).
 
-- **Stage 1:** Allowing logged-in users to add posts with text, files or both, and targeting specific audiences.
+- **Stage 2:** Allowing logged-in users to add posts with text, files or both, and targeting specific audiences.
 
-- **Stage 2:** Display user data in the menu and autocomplete the name in the post form.
+- **Stage 3:** Display user data in the menu and autocomplete the name in the post form.
 
-- **Stage 3:** Support for different types of files (photos, video, audio) uploaded by users.
+- **Stage 4:** Support for different types of files (photos, video, audio) uploaded by users.
 
-- **Stage 4:** Viewing of posts, both received and sent.
+- **Stage 5:** Viewing of posts, both received and sent.
 
-- **Stage 5:** Full access to all posts for the "admin" user.
+- **Stage 6:** Full access to all posts for the "admin" user.
 
-- **Stage 6:** The application allows communication between users, content exchange and management, and provides geolocation information of users.
+- **Stage 7:** The application allows communication between users, content exchange and management, and provides geolocation information of users.
+
+
+### Task 4: MyCloud
+
+The task was to create a network drive that allows users to store and manage files on the server. The main implementation steps were:
+
+- **Stage 1:** Using existing solutions related to user registration and login.
+
+- **Stage 2:** Creating a database with a "users" table to store user data.
+
+- **Stage 3:** Adding a login function and logging logins and failed access attempts.
+
+- **Stage 4:** Allowing users to create their directories, upload, download and delete files.
+
+- **Stage 5:** Providing an intuitive interface for directory navigation and file management.
+
+- **Stage 6:** Support for different file types.
