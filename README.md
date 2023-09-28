@@ -82,3 +82,19 @@ The task was to create a network drive that allows users to store and manage fil
 
 - **Stage 8:** Ability to listen to your playlists and the public playlists of other users.
 
+
+### Task 6: Video
+
+Creating an application similar to Netflix, where users can add videos, create playlists (public or private), and view and play other users' playlists.
+
+- **Stage 1:** Create a database with user data (logins and passwords).
+
+- **Stage 2:** Creating a catalog for movies and categorizing them by genre.
+
+- **Stage 3:** Adding movies by users.
+
+- **Stage 4:** Creating and managing playlists (name, public/private status).
+
+- **Stage 5:** Adding movies to playlists.
+
+- **Stage 6:** Playing own playlists and public playlists of other users.
