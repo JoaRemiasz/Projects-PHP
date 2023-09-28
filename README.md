@@ -67,10 +67,18 @@ The task was to create a network drive that allows users to store and manage fil
 ### Task 5: MySpotify
 
 - **Stage 1:** Creating a music app, similar to Spotify.
+
 - **Stage 2:** Allowing users to add their songs.
+
 - **Stage 3:** Allowing users to create playlists, with the option of public or private access.
+
 - **Stage 4:** Using a database to store user data and song information.
+
 - **Stage 5:** A song directory for storing added songs.
+
 - **Stage 6:** Categorization of songs by music genre.
+
 - **Stage 7:** Adding songs to playlists using a form.
+
 - **Stage 8:** Ability to listen to your playlists and the public playlists of other users.
+
