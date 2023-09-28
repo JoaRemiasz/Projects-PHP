@@ -98,3 +98,23 @@ Creating an application similar to Netflix, where users can add videos, create p
 - **Stage 5:** Adding movies to playlists.
 
 - **Stage 6:** Playing own playlists and public playlists of other users.
+
+
+
+### Task 7: Discussion forum
+
+- **Stage 1:** Creation of an online discussion forum with access for guests and logged-in users.
+
+- **Stage 2:** Guest privileges: browse topics, no ability to create topics or posts.
+
+- **Stage 3:** Privileges of logged-in users: creating topics, adding posts, deleting own posts.
+
+- **Stage 4:** Existence of a site admin with full access to all forum functions and content.
+
+- **Stage 5:** Creation of a database with a "users" table for registered users.
+
+- **Stage 6:** Using the curse word "damn" causes an error and blocks the posting.
+
+- **Stage 7:** Admin can remove content and users in case of violation of the rules.
+
+- **Stage 8:** Topics and posts are stored in "topic" and "post" tables, where each post is assigned to a topic.
