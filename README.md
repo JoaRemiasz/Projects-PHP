@@ -118,3 +118,20 @@ Creating an application similar to Netflix, where users can add videos, create p
 - **Stage 7:** Admin can remove content and users in case of violation of the rules.
 
 - **Stage 8:** Topics and posts are stored in "topic" and "post" tables, where each post is assigned to a topic.
+
+
+### Task 8: AJAX and other technologies
+
+- **Stage 1:** Create an AJAX-based web application to interact with the server without reloading the page.
+
+- **Stage 2:** First step: Create an AJAX application to periodically retrieve and display data from a JSON file.
+
+- **Stage 3:** Monitor the AJAX interaction in the browser using developer tools.
+
+- **Stage 4:** Next stage: Create a database and a table "ajax.from_db" to store data sent by users.
+
+- **Stage 5:** Creating an application to retrieve and display data from the database asynchronously.
+
+- **Stage 6:** Using EventSource to retrieve data and update page content asynchronously.
+
+- **Stage 7:** The task meets the criteria of an AJAX-type application, allowing dynamic interaction with the server.
